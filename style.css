@@ -123,16 +123,15 @@ header .navbar-default .navbar-brand{
 	transition:all 0.5s ease-in-out;
 	
 }
+.btn{
+	margin-bottom:80px;
+}
 
 .footer .contact-form .submit:hover{
 	color:#fcdb00;
 	background-color:##010101;
 	
 }
-.footer .form-group{
-	margin-bottom:80px;
-}
-
 .footer .social-list li{
 	display:inline-block;
 	margin-right:30px;
@@ -175,4 +174,5 @@ header .navbar-default .navbar-brand{
 		margin:0 auto;
 		display:block;
 	}
+
 }
